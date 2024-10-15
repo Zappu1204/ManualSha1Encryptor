@@ -1,0 +1,1 @@
+# ManualSha1Encryptor
